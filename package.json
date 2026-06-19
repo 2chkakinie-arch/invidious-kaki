@@ -1,0 +1,18 @@
+{
+  "name": "invidious-mini",
+  "version": "1.0.0",
+  "description": "An open source alternative front-end to YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "youtube-search-api": "^1.2.2",
+    "undici": "^6.19.8",
+    "youtubei.js": "^10.5.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
