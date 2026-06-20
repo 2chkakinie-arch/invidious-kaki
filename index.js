@@ -37,6 +37,10 @@ const PROXY_SERVERS = [
   '51.158.204.41',
   '195.3.223.166',
   '185.16.39.144',
+  'flash.atlus.moe',
+  'parasite-eve.panel-laboralcj.gob.mx',
+  'chc.chc.ninja',
+  'tokyo.fppago.com',
 ];
 
 /* ─────────────────────────────────────────────────────────────────────────
